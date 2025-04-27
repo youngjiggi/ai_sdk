@@ -1,6 +1,6 @@
 $headers = @{
     "Content-Type" = "application/json"
-    "Authorization" = "YOUR_LINEAR_API_KEY"
+    "Authorization" = "lin_api_key_YOUR_LINEAR_API_KEY"
 }
 
 $body = @{
